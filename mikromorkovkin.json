@@ -3,7 +3,7 @@
   "wake_word": "микроморковкин",
   "author": "Valentin",
   "website": "",
-  "model": "file:///Users/valentinbezborodov/microWakeWord-Trainer-AppleSilicon/trained_wake_words/mikromorkovkin.tflite",
+  "model": "mikromorkovkin.tflite",
   "trained_languages": ["ru"],
   "version": 2,
   "micro": {
