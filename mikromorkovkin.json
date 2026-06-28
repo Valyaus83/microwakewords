@@ -3,7 +3,7 @@
   "wake_word": "микроморковкин",
   "author": "Valentin",
   "website": "",
-  "model": "mikromorkovkin.tflite",
+  "model": "https://raw.githubusercontent.com/Valyaus83/microwakewords/main/mikromorkovkin.tflite",
   "trained_languages": ["ru"],
   "version": 2,
   "micro": {
